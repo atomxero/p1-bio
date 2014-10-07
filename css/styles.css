@@ -4,6 +4,10 @@ h1{
 	font-family: 'Lobster', cursive;
 }
 
+body{
+	background: url(../img/pw.png);
+}
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
