@@ -1,5 +1,8 @@
 /* Your Website Styles */
-
+h1{
+	color: #FF5B42;
+	font-family: 'Lobster', cursive;
+}
 
 /* Show Grid */
 .showgrid {
