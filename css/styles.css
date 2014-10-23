@@ -41,7 +41,8 @@ p{
 img{
 width: 300px;
 padding: 10px;
-outline-color: #994D33
+border: 10px;
+border-color: #994D33
 
 }
 
