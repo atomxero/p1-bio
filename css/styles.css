@@ -2,22 +2,17 @@
 h1{
 color: #fff;
 font-family: 'Lobster', cursive;
+font-size: 4em;
 
-width: 300px;
-padding: 10px;
-border: 10px solid black;ive;
+
 }
 
 body{
 	background: url("../img/pw.png");
 
-/************************
-Bio
-*************************/
-
-profile-photo {
-  display: block;
-  max-width: 50px;
-  margin: 0 auto 30px;
-  border-radius: 30px;
+.pic{
+	max-height: 350px;
+	border: 20px #ECF9F7
 }
+
+
