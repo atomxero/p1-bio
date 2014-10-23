@@ -10,3 +10,14 @@ border: 10px solid black;ive;
 
 body{
 	background: url("../img/pw.png");
+
+/************************
+PAGE: ABOUT
+*************************/
+
+.profile-photo {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 30px;
+}
