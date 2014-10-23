@@ -9,11 +9,14 @@ margin: 0	0	0	10px;
 
 body{
 	background: url("../img/pw.png");
- 
+ }
 
-p{
-font-family: 'Shadows Into Light', cursive;	
-}	
+ h2{
+ 	color: #53C6AB;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 3em;
+	margin: 0	0	0	10px;
+ }
 
 li {
   list-style: none;
