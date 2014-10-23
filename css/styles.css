@@ -10,9 +10,7 @@ font-size: 4em;
 body{
 	background: url("../img/pw.png");
 
-picture{
-	max-height: 350px;
-	border: 20px #ECF9F7
+img{
+	margin-left: 30px;
 }
-
 
