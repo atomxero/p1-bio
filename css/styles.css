@@ -27,7 +27,7 @@ body{
 
 li {
   list-style: none;
-  display: inline-block;
+
  
   
 }
@@ -44,5 +44,10 @@ p{
 img{
 width: 300px;
 padding: 10px;
+
+}
+
+nav{
+ background: #994D33
 
 }
