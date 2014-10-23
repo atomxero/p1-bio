@@ -41,11 +41,13 @@ p{
 img{
 width: 300px;
 padding: 10px;
-border: 10px;
-border-color: #994D33
 
 }
 
+.pic{
+	border: 10px double #994D33;
+
+}
 
 
 
