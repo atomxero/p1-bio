@@ -1,8 +1,8 @@
 /* Your Website Styles */
 h1{
-color: #3F8D89;
+color: #fff;
 font-family: 'Lobster', cursive;
-background: red;
+
 width: 300px;
 padding: 10px;
 border: 10px solid black;ive;
@@ -10,9 +10,3 @@ border: 10px solid black;ive;
 
 body{
 	background: url("../img/pw.png");
-}
-
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
