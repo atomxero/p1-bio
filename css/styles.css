@@ -12,12 +12,12 @@ body{
 	background: url("../img/pw.png");
 
 /************************
-PAGE: ABOUT
+Bio
 *************************/
 
-.profile-photo {
+profile-photo {
   display: block;
-  max-width: 150px;
+  max-width: 50px;
   margin: 0 auto 30px;
   border-radius: 30px;
 }
